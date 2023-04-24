@@ -12,3 +12,9 @@ Hamza Görkem Gül
 Bengisu Uçar
 
 Nilay Merve Bahçecioğlu
+
+
+content of the project:
+It is a website that provides sarcastic answers to questions asked with the help of an artificial intelligence.
+
+We used Prisma, Swagger, Postgresql and NestJS while making our project.
