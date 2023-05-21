@@ -21,3 +21,8 @@ model users{
   created_at DateTime @default(now())
   updated_at DateTime @updatedAt
 }
+model Message {
+  id    Int     @default(autoincrement()) @id 
+  message String
+  created_at DateTime @default(now())
+}
